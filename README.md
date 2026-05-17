@@ -91,8 +91,8 @@ package.json
 - npx cypress open - Modo Interativo
 - npx cypress run - Modo Headless
 
-
-📸 Evidências
+---
+## 📸 Evidências
 
 UI - WEB
 
@@ -102,6 +102,6 @@ API -
 
 <img width="1907" height="974" alt="image" src="https://github.com/user-attachments/assets/b97cf532-0afb-4b48-b65d-0aeb17886d19" />
 
-
+---
 👩‍💻 Autora
 Beatriz França Amaya - QA Automation Engineer
