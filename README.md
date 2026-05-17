@@ -5,11 +5,13 @@ Projeto de automação de testes desenvolvido com Cypress, cobrindo cenários de
 Automatizar testes de um e-commerce, cobrindo UI e API, aplicando boas práticas de automação, organização e geração de dados dinâmicos.
 👉 Sistema: https://www.automationexercise.com
 
+
 🧰 Tecnologias
 Cypress
 Cucumber (BDD)
 Faker - Gerador de dados dinâmicos
 JavaScript
+
 
 
 ✅ Cenário 1 – UI (Web)
@@ -25,6 +27,7 @@ Validação:
 Mensagem de sucesso
 Nome do produto
 Valor consistente
+
 
 
 ✅ Cenário 2 – API
@@ -51,6 +54,7 @@ Vantagens do uso de dados dinâmicos (Faker)
 ✅ Maior cobertura de testes → simula diferentes cenários e entradas  
 ✅ Mais realismo → dados próximos do mundo real melhoram a qualidade dos testes  
 ✅ Economia de tempo → elimina a criação manual de massa de dados  
+
 
 
 🧱 Estrutura do Projeto
